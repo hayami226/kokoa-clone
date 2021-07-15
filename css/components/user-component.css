@@ -2,11 +2,14 @@
   justify-content: space-between;
 }
 
+.user-component.user-component--margin {
+  margin-bottom: 20px;
+}
+
 .user-component,
 .user-component__column:first-child {
   display: flex;
   align-items: center;
-  margin-bottom: 10px;
 }
 
 .user-component__avatar {
